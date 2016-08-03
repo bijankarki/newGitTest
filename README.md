@@ -1,2 +1,2 @@
 # newGitTest
-# this is kindda information for who uses this system
+# this is kindda instruction for whom uses this system
